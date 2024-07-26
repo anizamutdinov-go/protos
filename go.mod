@@ -1,4 +1,4 @@
-module protos
+module github.com/anizamutdinov-go/protos
 
 go 1.22.5
 
