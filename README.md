@@ -1,2 +1,2 @@
-# prootos
+# protos
 let's try grpc
